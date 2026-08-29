@@ -65,10 +65,12 @@ ROWS = [
     ("kv", "Data", "Python · PostgreSQL/Supabase · SQL · GA4"),
     ("kv", "Infra", "Linux VPS · Node.js · Docker · Traefik · self-hosted"),
     ("gap",),
-    ("sec", "Shipped"),
-    ("bul", "OCR Buddy: local-first Chrome OCR, 3,000+ users, no telemetry"),
-    ("bul", "Lupin: run Claude Code on any LLM provider"),
-    ("bul", "MCP servers in production: Trenitalia, GSC SEO, IQOS locator"),
+    # "Now", not "Shipped": the shipped card below the fold already lists the
+    # projects with their live numbers. This says what is being built today.
+    ("sec", "Now"),
+    ("bul", "competitor intelligence across 12 market rivals"),
+    ("bul", "reputation pipeline, hundreds of reviews a month"),
+    ("bul", "AI automation under EU AI Act compliance review"),
 ]
 
 

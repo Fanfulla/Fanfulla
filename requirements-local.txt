@@ -1,5 +1,5 @@
 # Local-only deps for generating the portrait and the info card.
-# The daily GitHub Action only needs scripts/requirements.txt (requests + bs4).
+# The daily GitHub Action only needs scripts/requirements.txt (requests).
 # No rembg / onnxruntime: the memoji sits on a flat background, so prep_photo.py
 # cuts it with a flood fill instead of a 176 MB segmentation model.
 pillow

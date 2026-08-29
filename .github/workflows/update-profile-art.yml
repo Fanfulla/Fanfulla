@@ -1,8 +1,8 @@
 name: Update profile art
 
-# Re-scrapes the public contribution calendar and re-renders the heatmap once a
-# day. The portrait and the info card are static -- they are only rebuilt by
-# hand when the photo or the content changes.
+# Re-reads the live star and download counts and re-renders the shipped card
+# once a day. The portrait and the info card are static -- they are only
+# rebuilt by hand when the photo or the content changes.
 
 on:
   schedule:
@@ -22,21 +22,22 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install scraper deps
+      - name: Install deps
         run: pip install -r scripts/requirements.txt
 
-      - name: Fetch contributions
+      - name: Fetch shipped metrics
         env:
           GH_PROFILE_USER: ${{ github.repository_owner }}
-        run: python scripts/fetch_contributions.py
+          GITHUB_TOKEN: ${{ github.token }}   # read-only, raises the API rate limit
+        run: python scripts/fetch_shipped.py
 
-      - name: Render heatmap
-        run: python scripts/render_heatmap_svg.py
+      - name: Render shipped card
+        run: python scripts/render_shipped_svg.py
 
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/contributions.json contrib-heatmap.svg
-          git diff --staged --quiet || git commit -m "chore: refresh contribution graph"
+          git add data/shipped.json shipped-card.svg
+          git diff --staged --quiet || git commit -m "chore: refresh shipped card"
           git push

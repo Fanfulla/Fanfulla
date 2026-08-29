@@ -1,0 +1,77 @@
+{
+  "user": "Fanfulla",
+  "generated_at": "2026-08-29T14:16:24Z",
+  "totals": {
+    "repos": 7,
+    "stars": 102,
+    "forks": 12
+  },
+  "repos": {
+    "Fanfulla": {
+      "name": "Fanfulla",
+      "url": "https://github.com/Fanfulla/Fanfulla",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "pushed_at": "2026-08-29",
+      "npm": null
+    },
+    "Lupin": {
+      "name": "Lupin",
+      "url": "https://github.com/Fanfulla/Lupin",
+      "stars": 34,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-19",
+      "npm": {
+        "package": "lupin-code",
+        "downloads_30d": 1928
+      }
+    },
+    "OCR-buddy": {
+      "name": "OCR-buddy",
+      "url": "https://github.com/Fanfulla/OCR-buddy",
+      "stars": 51,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20",
+      "npm": null
+    },
+    "KoboOfflineBackup": {
+      "name": "KoboOfflineBackup",
+      "url": "https://github.com/Fanfulla/KoboOfflineBackup",
+      "stars": 9,
+      "forks": 0,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-30",
+      "npm": null
+    },
+    "MCP_Trenitalia": {
+      "name": "MCP_Trenitalia",
+      "url": "https://github.com/Fanfulla/MCP_Trenitalia",
+      "stars": 6,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-18",
+      "npm": null
+    },
+    "pokedex_CLI_ASCII": {
+      "name": "pokedex_CLI_ASCII",
+      "url": "https://github.com/Fanfulla/pokedex_CLI_ASCII",
+      "stars": 1,
+      "forks": 1,
+      "language": "Python",
+      "pushed_at": "2025-12-26",
+      "npm": null
+    },
+    "cv_webcam": {
+      "name": "cv_webcam",
+      "url": "https://github.com/Fanfulla/cv_webcam",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "pushed_at": "2025-12-26",
+      "npm": null
+    }
+  }
+}

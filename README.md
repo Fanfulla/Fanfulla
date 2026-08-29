@@ -15,6 +15,6 @@ Applied AI &amp; Growth Delivery · Lottomatica
 
 <br>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution graph" />
+<img src="./shipped-card.svg" width="860" alt="Shipped work: stars, downloads and users" />
 
 </div>
