@@ -1,32 +1,32 @@
 {
   "user": "Fanfulla",
-  "generated_at": "2026-08-31T10:51:01Z",
+  "generated_at": "2026-09-01T09:24:23Z",
   "totals": {
     "repos": 7,
     "stars": 103,
     "forks": 12
   },
   "repos": {
-    "Fanfulla": {
-      "name": "Fanfulla",
-      "url": "https://github.com/Fanfulla/Fanfulla",
-      "stars": 1,
-      "forks": 0,
-      "language": "Python",
-      "pushed_at": "2026-08-30",
-      "npm": null
-    },
     "Lupin": {
       "name": "Lupin",
       "url": "https://github.com/Fanfulla/Lupin",
       "stars": 34,
       "forks": 3,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19",
+      "pushed_at": "2026-09-01",
       "npm": {
         "package": "lupin-code",
         "downloads_30d": 1930
       }
+    },
+    "Fanfulla": {
+      "name": "Fanfulla",
+      "url": "https://github.com/Fanfulla/Fanfulla",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "pushed_at": "2026-08-31",
+      "npm": null
     },
     "OCR-buddy": {
       "name": "OCR-buddy",
