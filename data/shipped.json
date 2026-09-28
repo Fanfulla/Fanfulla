@@ -1,19 +1,46 @@
 {
   "user": "Fanfulla",
-  "generated_at": "2026-09-27T10:00:13Z",
+  "generated_at": "2026-09-28T10:53:53Z",
   "totals": {
     "repos": 7,
     "stars": 105,
     "forks": 14
   },
   "repos": {
+    "KoboOfflineBackup": {
+      "name": "KoboOfflineBackup",
+      "url": "https://github.com/Fanfulla/KoboOfflineBackup",
+      "stars": 9,
+      "forks": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-27",
+      "npm": null
+    },
+    "MCP_Trenitalia": {
+      "name": "MCP_Trenitalia",
+      "url": "https://github.com/Fanfulla/MCP_Trenitalia",
+      "stars": 6,
+      "forks": 0,
+      "language": "Python",
+      "pushed_at": "2026-09-27",
+      "npm": null
+    },
+    "OCR-buddy": {
+      "name": "OCR-buddy",
+      "url": "https://github.com/Fanfulla/OCR-buddy",
+      "stars": 52,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-27",
+      "npm": null
+    },
     "Fanfulla": {
       "name": "Fanfulla",
       "url": "https://github.com/Fanfulla/Fanfulla",
       "stars": 1,
       "forks": 0,
       "language": "Python",
-      "pushed_at": "2026-09-26",
+      "pushed_at": "2026-09-27",
       "npm": null
     },
     "Lupin": {
@@ -25,35 +52,8 @@
       "pushed_at": "2026-09-01",
       "npm": {
         "package": "lupin-code",
-        "downloads_30d": 605
+        "downloads_30d": 633
       }
-    },
-    "OCR-buddy": {
-      "name": "OCR-buddy",
-      "url": "https://github.com/Fanfulla/OCR-buddy",
-      "stars": 52,
-      "forks": 8,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20",
-      "npm": null
-    },
-    "KoboOfflineBackup": {
-      "name": "KoboOfflineBackup",
-      "url": "https://github.com/Fanfulla/KoboOfflineBackup",
-      "stars": 9,
-      "forks": 0,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-30",
-      "npm": null
-    },
-    "MCP_Trenitalia": {
-      "name": "MCP_Trenitalia",
-      "url": "https://github.com/Fanfulla/MCP_Trenitalia",
-      "stars": 6,
-      "forks": 0,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-18",
-      "npm": null
     },
     "pokedex_CLI_ASCII": {
       "name": "pokedex_CLI_ASCII",
