@@ -1,9 +1,9 @@
 {
   "user": "Fanfulla",
-  "generated_at": "2026-10-03T09:51:53Z",
+  "generated_at": "2026-10-04T10:34:44Z",
   "totals": {
     "repos": 7,
-    "stars": 108,
+    "stars": 107,
     "forks": 15
   },
   "repos": {
@@ -13,7 +13,7 @@
       "stars": 1,
       "forks": 0,
       "language": "Python",
-      "pushed_at": "2026-10-02",
+      "pushed_at": "2026-10-03",
       "npm": null
     },
     "KoboOfflineBackup": {
@@ -37,7 +37,7 @@
     "OCR-buddy": {
       "name": "OCR-buddy",
       "url": "https://github.com/Fanfulla/OCR-buddy",
-      "stars": 55,
+      "stars": 54,
       "forks": 9,
       "language": "TypeScript",
       "pushed_at": "2026-09-27",
