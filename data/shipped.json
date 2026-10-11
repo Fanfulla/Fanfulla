@@ -1,9 +1,9 @@
 {
   "user": "Fanfulla",
-  "generated_at": "2026-10-10T10:36:15Z",
+  "generated_at": "2026-10-11T10:49:00Z",
   "totals": {
     "repos": 7,
-    "stars": 107,
+    "stars": 108,
     "forks": 15
   },
   "repos": {
@@ -13,7 +13,7 @@
       "stars": 1,
       "forks": 0,
       "language": "Python",
-      "pushed_at": "2026-10-09",
+      "pushed_at": "2026-10-10",
       "npm": null
     },
     "KoboOfflineBackup": {
@@ -28,7 +28,7 @@
     "MCP_Trenitalia": {
       "name": "MCP_Trenitalia",
       "url": "https://github.com/Fanfulla/MCP_Trenitalia",
-      "stars": 6,
+      "stars": 7,
       "forks": 0,
       "language": "Python",
       "pushed_at": "2026-09-27",
@@ -52,7 +52,7 @@
       "pushed_at": "2026-09-01",
       "npm": {
         "package": "lupin-code",
-        "downloads_30d": 338
+        "downloads_30d": 292
       }
     },
     "pokedex_CLI_ASCII": {
