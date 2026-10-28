@@ -1,6 +1,6 @@
 {
   "user": "Fanfulla",
-  "generated_at": "2026-10-27T09:48:28Z",
+  "generated_at": "2026-10-28T10:34:22Z",
   "totals": {
     "repos": 7,
     "stars": 108,
@@ -13,7 +13,7 @@
       "stars": 1,
       "forks": 0,
       "language": "Python",
-      "pushed_at": "2026-10-26",
+      "pushed_at": "2026-10-27",
       "npm": null
     },
     "KoboOfflineBackup": {
@@ -52,7 +52,7 @@
       "pushed_at": "2026-09-01",
       "npm": {
         "package": "lupin-code",
-        "downloads_30d": 0
+        "downloads_30d": 88
       }
     },
     "pokedex_CLI_ASCII": {
