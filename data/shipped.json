@@ -1,9 +1,9 @@
 {
   "user": "Fanfulla",
-  "generated_at": "2026-11-15T11:56:31Z",
+  "generated_at": "2026-11-16T12:44:10Z",
   "totals": {
     "repos": 7,
-    "stars": 109,
+    "stars": 110,
     "forks": 16
   },
   "repos": {
@@ -13,7 +13,7 @@
       "stars": 1,
       "forks": 0,
       "language": "Python",
-      "pushed_at": "2026-11-14",
+      "pushed_at": "2026-11-15",
       "npm": null
     },
     "KoboOfflineBackup": {
@@ -37,7 +37,7 @@
     "OCR-buddy": {
       "name": "OCR-buddy",
       "url": "https://github.com/Fanfulla/OCR-buddy",
-      "stars": 56,
+      "stars": 57,
       "forks": 10,
       "language": "TypeScript",
       "pushed_at": "2026-09-27",
@@ -52,7 +52,7 @@
       "pushed_at": "2026-09-01",
       "npm": {
         "package": "lupin-code",
-        "downloads_30d": 139
+        "downloads_30d": 138
       }
     },
     "pokedex_CLI_ASCII": {
